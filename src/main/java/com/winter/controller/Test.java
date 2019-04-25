@@ -6,5 +6,9 @@ package com.winter.controller;
 public class Test {
     public static void main(String[] args) {
         System.out.println("test分支");
+<<<<<<< HEAD
+=======
+        System.out.println("test分支02");
+>>>>>>> master
     }
 }
